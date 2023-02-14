@@ -5,8 +5,7 @@ Hi, my name is Andreas Yelasis. I am a passionate Computer Engineering guy and I
 
 - 🔭 I’m currently working on NCR.
 - 🌱 I’m currently learning WordPress.
-- 📱  I'm experimenting with Flutter
-- I'm using Arduino and Raspberry Pi
+- 📱  I'm experimenting with Flutter.
 - 👯 I’m looking to collaborate with you.
 - 🤔 I’m looking for help with you.
 - 🎵 I'm playing bouzouki.
