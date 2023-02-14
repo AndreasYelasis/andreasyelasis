@@ -5,10 +5,15 @@ Hi, my name is Andreas Yelasis. I am a passionate Computer Engineering guy and I
 
 - 🔭 I’m currently working on NCR.
 - 🌱 I’m currently learning WordPress.
+- 📱  I'm experimenting with Flutter
+- I'm using Arduino and Raspberry Pi
 - 👯 I’m looking to collaborate with you.
 - 🤔 I’m looking for help with you.
+- 🎵 I'm playing bouzouki.
+- 🍓 I'm working with Arduino and Raspberry Pi. 
 - 💬 Ask me about technology, business, automotive.
-- 📫 How to reach me: LinkedIn - andreas.yelasis
+- 🚴‍♂️ We can go mountain cycling.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreasyelasis)
 - ⚡ Fun fact: The team at Harvard University in Cambridge, Massachusetts, found that their computer, the Mark II, was delivering consistent errors. When they opened the computer’s hardware, they found ... a moth. The trapped insect had disrupted the electronics of the computer.
 [Sep 9, 1947 CE: World’s First Computer Bug](https://education.nationalgeographic.org/resource/worlds-first-computer-bug)
 
